@@ -4,6 +4,7 @@
 using namespace std;
 //Gioi thieu xam xam ve cac phep toan Casio co the thuc hien duoc
 //Bai tap Git
+//Tao thay doi noi dung roi nhe
 
 void MenuCasio()
 {
